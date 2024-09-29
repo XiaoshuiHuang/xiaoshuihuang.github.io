@@ -79,10 +79,10 @@ certifications:
           end:  
           organization: Huangpu 312教室
 projects:
-    title: News
+    title: Projects
     intro: 
     assignments:
-      - title: 
+      - title: 表格大模型
         link: 
         tagline: "[2024.06]. I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
 #oss:
