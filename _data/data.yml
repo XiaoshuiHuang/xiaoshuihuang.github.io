@@ -32,13 +32,6 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-
-career-profile:
-    title: About Me
-    summary: |
-      I am currently an assistant professor at Shanghai Jiao Tong University. I have research experience in 3D computer vision, foundational models, and healthcare. With an interdisciplinary background in computer vision, large models, and AI for science, I am dedicated to developing a new generation of artificial intelligence technology that empowers life, health, and general artificial intelligence.
-
-      My research interests encompass general artificial intelligence, 3D computer vision and AI applications in healthcare.
 education:
     title: Education
     info:
@@ -46,6 +39,13 @@ education:
         university: University of Technology Sydney
         time:  
         details:  
+        
+career-profile:
+    title: About Me
+    summary: |
+      I am currently an assistant professor at Shanghai Jiao Tong University. I have research experience in 3D computer vision, foundational models, and healthcare. With an interdisciplinary background in computer vision, large models, and AI for science, I am dedicated to developing a new generation of artificial intelligence technology that empowers life, health, and general artificial intelligence.
+
+      My research interests encompass general artificial intelligence, 3D computer vision and AI applications in healthcare.
 experiences:
     title: Work Experience
     info:
@@ -85,14 +85,14 @@ projects:
       - title: 
         link: 
         tagline: "[2024.06]. I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
-oss:
-    title: Research Projects
-    intro: >
-      I am passionate about research and industry projects related to AI in healthcare, Multi-modal Large Models, and 3D computer vision. Below are some of the representative projects on which I have served as the Principal Investigator.:
-    contributions:
-      - title: Guideline Compliance Analysis
-        link: "https://onlinelibrary.wiley.com/doi/full/10.1111/1754-9485.13727"
-        tagline: "Analyze the factors to affect the lung cancer guideline compliance."
+#oss:
+#    title: Research Projects
+#    intro: >
+#      I am passionate about research and industry projects related to AI in healthcare, Multi-modal Large Models, and 3D computer vision. Below are some of the representative projects on which I have served as the Principal Investigator.:
+#    contributions:
+#      - title: Guideline Compliance Analysis
+#        link: "https://onlinelibrary.wiley.com/doi/full/10.1111/1754-9485.13727"
+#        tagline: "Analyze the factors to affect the lung cancer guideline compliance."
 publications:
     title: Publications
     intro: |
