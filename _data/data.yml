@@ -74,18 +74,17 @@ experiences:
 projects:
     title: News
     intro: 
-
     assignments:
       - title: 
         link: 
         tagline: "I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
-experiences:
-    title: Teaching
-    info:
-      - role: Introduction to Medical Health Artificial Intelligence
-        time: Spring
-        company: Huangpu 312 教室
-        details: |
+certifications:
+      title: Teaching
+      list:
+        - name: Introduction to Medical Health Artificial Intelligence
+          start: Spring
+          end:  
+          organization: Huangpu 312教室
 oss:
     title: Research Projects
     intro: >
