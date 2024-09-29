@@ -99,17 +99,17 @@ publications:
 
       Note: + means co-first author, * means the corresponding authors.
     papers:
-      - title: Point Cloud Pre-training with Diffusion Models
+      - title: "[PointDif]--PointDif Point Cloud Pre-training with Diffusion Models"
         link: "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Point_Cloud_Pre-training_with_Diffusion_Models_CVPR_2024_paper.pdf"
         authors: Xiao Zheng, Xiaoshui Huang*, Guofeng Mei, Yuenan Hou, Zhaoyang Lyu, Bo Dai, Wanli Ouyang, Yongshun Gong*
         conference: CVPR 2024
 
-      - title: Taming Stable Diffusion for Text to 360° Panorama Image Generation
+      - title: "[PanFusion]--Taming Stable Diffusion for Text to 360° Panorama Image Generation"
         link: "https://github.com/chengzhag/PanFusion"
         authors: Cheng Zhang, Qianyi Wu, Camilo Cruz Gambardella, Xiaoshui Huang*, Dinh Phung, Wanli Ouyang, Jianfei Cai*
         conference: CVPR 2024
 
-      - title: Frozen CLIP Transformer Is an Efficient Point Cloud Encoder
+      - title: "[EPCL]--Frozen CLIP Transformer Is an Efficient Point Cloud Encoder"
         link: "https://ojs.aaai.org/index.php/AAAI/article/view/28013"
         authors: Xiaoshui Huang, Zhou Huang, Sheng Li, Wentao Qu, Tong He, Yuenan Hou, Yifan Zuo, Wanli Ouyang
         conference: AAAI 2024
