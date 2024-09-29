@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: # America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://xiaoshuihuang.github.io/ # Include the full website URL, including "http://" or "https://".
+    website:  # Include the full website URL, including "http://" or "https://".
     linkedin: xiaoshuihuang
     github: xiaoshuihuang
     telegram: # add your nickname without '@' sign
@@ -32,23 +32,6 @@ sidebar:
     leetcode: # Please provide your LeetCode username.
     pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Chinese
-          level: Native 
-
-        - idiom: English
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Driving
-          link:
-
-        - item: Basketball
-          link:
 
 career-profile:
     title: About Me
