@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone: # America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: <a href=https://scholar.google.com/citations?user=rp7mYNsAAAAJ target=_blank>Google Scholar</a> # Include the full website URL, including "http://" or "https://".
+    website: <a href=https://scholar.google.com/citations?user=rp7mYNsAAAAJ&hl=en&oi=ao target=_blank>Google Scholar</a> # Include the full website URL, including "http://" or "https://".
     linkedin: xiaoshuihuang
     github: xiaoshuihuang
     gitlab:
