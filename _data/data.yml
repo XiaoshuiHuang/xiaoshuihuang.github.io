@@ -88,7 +88,7 @@ projects:
 oss:
     title: Research Projects
     intro: >
-      I have interests about the research and industry projects about AI for healthcare, Multi-modal Large Model and 3D computer vision. The below is the representative:
+      I am passionate about research and industry projects related to AI in healthcare, Multi-modal Large Models, and 3D computer vision. Below are some of the representative projects on which I have served as the Principal Investigator.:
     contributions:
       - title: Guideline Compliance Analysis
         link: "https://onlinelibrary.wiley.com/doi/full/10.1111/1754-9485.13727"
@@ -96,7 +96,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      I have published my research outcomes as papers for the fields including AGI, 3D computer vision and AI for healthcare. The below is the recent published papers. Go to my google scholar for the full list.
+      I have disseminated my research findings through papers in the fields of AGI, 3D computer vision, and AI for healthcare. Below are my most recent publications. For a comprehensive list, please visit my Google Scholar profile <a href="https://scholar.google.com/citations?user=rp7mYNsAAAAJ" target="_blank" rel="nofollow">here</a>.
 
       Note: + means co-first author, * means the corresponding authors.
     papers:
@@ -116,4 +116,4 @@ publications:
         conference: AAAI 2024
 
 footer: >
-    Contact <i class="fas fa-heart"></i> by <a href="http://xiaoshuihuang.github.io" target="_blank" rel="nofollow">Xiaoshui Huang</a>
+    Contact <i class="fas fa-heart"></i>  <a href="http://xiaoshuihuang.github.io" target="_blank" rel="nofollow">Xiaoshui Huang</a>
