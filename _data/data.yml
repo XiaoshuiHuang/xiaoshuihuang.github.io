@@ -46,7 +46,6 @@ education:
         university: University of Technology Sydney
         time:  
         details:  
-
 experiences:
     title: Work Experience
     info:
@@ -72,17 +71,14 @@ experiences:
             - Causal discovery
             - Healthcare analysis
             - 3D computer vision
-
 projects:
     title: News
-    intro: >
+    intro: 
+
     assignments:
       - title: 
         link: 
-        tagline: "I joined."
-
-
-
+        tagline: "I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
 experiences:
     title: Teaching
     info:
@@ -90,22 +86,6 @@ experiences:
         time: Spring
         company: Huangpu 312 教室
         details: |
-
-
-certifications:
-      title: Teaching
-      list:
-        - name: Introduction to Medical Health Artificial Intelligence
-          start: Spring
-          end: 
-          organization: 
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-
-
-
 oss:
     title: Research Projects
     intro: >
@@ -114,8 +94,6 @@ oss:
       - title: Guideline Compliance Analysis
         link: "https://onlinelibrary.wiley.com/doi/full/10.1111/1754-9485.13727"
         tagline: "Analyze the factors to affect the lung cancer guideline compliance."
-
-
 publications:
     title: Publications
     intro: |
@@ -137,8 +115,6 @@ publications:
         link: "https://ojs.aaai.org/index.php/AAAI/article/view/28013"
         authors: Xiaoshui Huang, Zhou Huang, et, al.
         conference: AAAI 2024
-
-
 
 footer: >
     Contact <i class="fas fa-heart"></i> by <a href="http://xiaoshuihuang.github.io" target="_blank" rel="nofollow">Xiaoshui Huang</a>
