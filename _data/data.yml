@@ -82,9 +82,9 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: 表格大模型
-        link: 
-        tagline: "[2024.06]. I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
+      - title: Guideline Compliance Analysis
+        link: "https://onlinelibrary.wiley.com/doi/full/10.1111/1754-9485.13727"
+        tagline: " Analyze the factors to affect the lung cancer guideline compliance."
 #oss:
 #    title: Research Projects
 #    intro: >
