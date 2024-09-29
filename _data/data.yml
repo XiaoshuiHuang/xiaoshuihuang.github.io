@@ -54,16 +54,14 @@ experiences:
         time: 2024 - Present
         company: Shanghai Jiao Tong University
         details: |
-          I mainly conduct research about artifical general intelligence, 3D computer vision and AI for healthcare.
-            - AGI
-            - 3D AIGC and 3D reconstruction
             - AI for healthcare
+            - 3D AIGC  
+            - AGI
       - role: Research Fellow
         time: 2022 - 2024
         company: Shanghai Artificial Intelligence Laboratory
         details: |
-          I conducted several projects including 3D foundation models, 3D AIGC and AI for airfoil design.
-            - 3D Foundation models pretrain and finetune
+            - 3D Foundation models 
             - 3D generation
             - PINN
       - role: Postodoctoral Research Associate
@@ -73,6 +71,7 @@ experiences:
           I conducted research about lung cancer guideline compliance analysis.
             - Causal discovery
             - Healthcare analysis
+            - 3D computer vision
 
 certifications:
       title: Certifications
