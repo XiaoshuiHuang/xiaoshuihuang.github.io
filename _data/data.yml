@@ -35,25 +35,19 @@ sidebar:
     languages:
       title: Languages
       info:
+        - idiom: Chinese
+          level: Native 
+
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Driving
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Basketball
           link:
 
 career-profile:
