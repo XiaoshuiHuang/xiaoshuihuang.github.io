@@ -71,13 +71,6 @@ experiences:
             - Causal discovery
             - Healthcare analysis
             - 3D computer vision
-projects:
-    title: News
-    intro: 
-    assignments:
-      - title: 
-        link: 
-        tagline: "I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
 certifications:
       title: Teaching
       list:
@@ -85,6 +78,13 @@ certifications:
           start: Spring
           end:  
           organization: Huangpu 312教室
+projects:
+    title: News
+    intro: 
+    assignments:
+      - title: 
+        link: 
+        tagline: "[2024.06]. I joined the School of Public Health, Shanghai Jiao Tong University School of Medicine."
 oss:
     title: Research Projects
     intro: >
