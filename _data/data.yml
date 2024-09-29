@@ -73,49 +73,8 @@ experiences:
             - Healthcare analysis
             - 3D computer vision
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
-    title: Projects
+    title: News
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -141,68 +100,53 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+certifications:
+      title: Teaching
+      list:
+        - name: Introduction to Medical Health Artificial Intelligence
+          start: Spring
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+
+
 oss:
-    title: OSS Contributions
+    title: Research Projects
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I have interests about the research and industry projects about AI for healthcare, Multi-modal Large Model and 3D computer vision. The below is the representative:
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Guideline Compliance Analysis
+        link: "https://onlinelibrary.wiley.com/doi/full/10.1111/1754-9485.13727"
+        tagline: "Analyze the factors to affect the lung cancer guideline compliance."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I have published my research outcomes as papers for the fields including AGI, 3D computer vision and AI for healthcare. The below is the recent published papers. Go to my google scholar for the full list.
+
+      Note: + means co-first author, * means the corresponding authors.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: PointDif
+        link: "https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Point_Cloud_Pre-training_with_Diffusion_Models_CVPR_2024_paper.pdf"
+        authors: Xiao Zheng, Xiaoshui Huang*, et, al.
+        conference: CVPR 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: PanFusion
+        link: "https://github.com/chengzhag/PanFusion"
+        authors: Cheng Zhang, Qianyi Wu, Camilo Cruz Gambardella, Xiaoshui Huang*, Dinh Phung, Wanli Ouyang, Jianfei Cai*
+        conference: CVPR 2024
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: EPCL
+        link: "https://ojs.aaai.org/index.php/AAAI/article/view/28013"
+        authors: Xiaoshui Huang, Zhou Huang, et, al.
+        conference: AAAI 2024
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Contact <i class="fas fa-heart"></i> by <a href="http://xiaoshuihuang.github.io" target="_blank" rel="nofollow">Xiaoshui Huang</a>
